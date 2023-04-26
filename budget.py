@@ -187,3 +187,5 @@ auto.withdraw(15)
 
 print(food)
 print(clothing)
+
+create_spend_chart([food, clothing, auto])
